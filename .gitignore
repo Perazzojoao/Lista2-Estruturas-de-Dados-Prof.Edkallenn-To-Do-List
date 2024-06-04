@@ -1,0 +1,5 @@
+*.exe
+*XX.c
+output
+*.pdf
+.vscode
